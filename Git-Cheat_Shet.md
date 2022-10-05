@@ -17,6 +17,8 @@
 
     En Git hay 2 tipos de repositorios  el de desnudos y el de no desnudos.
 
+![](Git.jpeg)
+
 #### *Repositorios desnudos*
 
     Los equipos de desarrollo de software utilizan repositorios básicos para compartir los cambios realizados por los miembros del equipo. Los usuarios individuales no pueden modificar o crear nuevas versiones del repositorio.
@@ -38,6 +40,8 @@
     JS-Git es una implementación de JavaScript de un subconjunto de Git.
 
 ## **Comandos mas usados**
+
+![Instalacion de Visual Studio Code](https://code.visualstudio.com/)
 
 ### El Guardando cambios
 <space>
@@ -102,7 +106,7 @@ git brach para crear ramas como la rama master y rama development.
 *git lock*esto para ver un tipo de historial que vizualiza quien lo hizo y la fecha.
 NO puede haber repositorios con el mismo nombre
 
-### <space> Glosario de terminos
+## <space> **Glosario de terminos**
 
 ***Repositorio:*** Es una base de datos de contenido digital con un conjunto asociado de métodos de gestión, búsqueda y acceso de datos que permite el acceso independiente de la aplicación al contenido, como una biblioteca digital, pero con la capacidad de almacenar y modificar contenido además a la búsqueda y recuperación.
 
