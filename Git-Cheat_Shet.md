@@ -8,3 +8,6 @@
       -El Guardando cambios
       -Habilitación de la colaboración
     5.Glosario de terminos
+
+### ¿Qué es Git?
+    Git es un software de control de versiones diseñado por Linus Torvalds. Software de código abierto Seguimiento de cambios en cualquier conjunto de archivos, generalmente utilizado para coordinar el trabajo entre programadores que desarrollan código fuente de forma colaborativa durante el desarrollo del software.
